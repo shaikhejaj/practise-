@@ -11,14 +11,14 @@ print("Adding the given two numbers", numberone, "+", numbertwo, "=", addnumb)
 diffnumb = numberone-numbertwo
 # printing the result of difference of two numbers
 print("Subtracting the given two numbers",
-      numberone, "-", numbertwo, "=", diffnumb)
+numberone, "-", numbertwo, "=", diffnumb)
 # multiply the given two numbers
 mulnumb = numberone*numbertwo
 # printing the result of product of two numbers
 print("Multiplying the given two numbers",
-      numberone, "*", numbertwo, "=", mulnumb)
+numberone, "*", numbertwo, "=", mulnumb)
 # diving the given two numbers
 divnumb = numberone+numbertwo
 # printing the result of sum of two numbers
 print("Dividing the given two numbers",
-      numberone, "/", numbertwo, "=", divnumb)
+numberone, "/", numbertwo, "=", divnumb)

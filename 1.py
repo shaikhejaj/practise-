@@ -1,4 +1,4 @@
-#python program which performs simple arithmetic operations
+# python program which performs simple arithmetic operations
 # given two numbers
 # given first number
 numberone = 29
